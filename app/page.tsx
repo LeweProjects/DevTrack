@@ -6,8 +6,8 @@ export default function Home() {
  const [login, setLogin] = useState(false);
 
   return (
-    <div className="">
-        
+    <div className="flex flex-col justif">
+        Login
     </div>
   );
 }
